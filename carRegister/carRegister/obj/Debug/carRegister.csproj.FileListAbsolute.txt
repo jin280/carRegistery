@@ -1,0 +1,6 @@
+C:\Users\i43180\Desktop\cdotnet\carRegister\carRegister\obj\Debug\carRegister.csprojResolveAssemblyReference.cache
+C:\Users\i43180\Desktop\cdotnet\carRegister\carRegister\bin\Debug\carRegister.exe.config
+C:\Users\i43180\Desktop\cdotnet\carRegister\carRegister\bin\Debug\carRegister.exe
+C:\Users\i43180\Desktop\cdotnet\carRegister\carRegister\bin\Debug\carRegister.pdb
+C:\Users\i43180\Desktop\cdotnet\carRegister\carRegister\obj\Debug\carRegister.exe
+C:\Users\i43180\Desktop\cdotnet\carRegister\carRegister\obj\Debug\carRegister.pdb
